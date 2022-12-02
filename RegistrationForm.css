@@ -1,0 +1,11 @@
+.registration-form{
+    margin:20px;
+}
+.textColor{
+    color: black;
+    font-size: 15px;
+    text-align:left;
+}
+.valid-feedback, .invalid-feedback{
+    display:block;
+}
